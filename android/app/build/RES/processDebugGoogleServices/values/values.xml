@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">139768450366</string>
+    <string name="google_api_key" translatable="false">AIzaSyAtL_-6apkT6k8iGNldfalAyXB7Im-OIg4</string>
+    <string name="google_app_id" translatable="false">1:139768450366:android:2edd316ce987d386b9f06f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAtL_-6apkT6k8iGNldfalAyXB7Im-OIg4</string>
+    <string name="google_storage_bucket" translatable="false">semis-fc185.appspot.com</string>
+    <string name="project_id" translatable="false">semis-fc185</string>
+</resources>

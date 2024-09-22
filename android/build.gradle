@@ -1,0 +1,19 @@
+buildscript {
+    ext.kotlin_version = '2.0.20' // Define Kotlin version
+    repositories {
+        google() // Google's Maven repository
+        mavenCentral() // Maven Central repository
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:7.0.4' // Android Gradle plugin version
+        classpath 'com.google.gms:google-services:4.4.2' // Google services plugin version
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version" // Kotlin plugin
+    }
+}
+
+allprojects {
+    repositories {
+        google() // Google's Maven repository
+        mavenCentral() // Maven Central repository
+    }
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "139768450366",
+    "project_id": "semis-fc185",
+    "storage_bucket": "semis-fc185.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139768450366:android:2edd316ce987d386b9f06f",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtL_-6apkT6k8iGNldfalAyXB7Im-OIg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
